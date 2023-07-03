@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/795.31f465ff.chunk.js","mappings":"gJAGA,MASA,EATaA,KAGLC,EAAAA,EAAAA,KAAA,S","sources":["pages/hepl/index.tsx"],"sourcesContent":["\n\nimport SKY from './ParticleComponent';\nconst Page = () => {\n\n    return (\n        <div></div>\n        // <div><SKY></SKY></div>\n    )\n}\n\n\nexport default Page;"],"names":["Page","_jsx"],"sourceRoot":""}
